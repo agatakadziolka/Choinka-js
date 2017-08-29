@@ -1,0 +1,21 @@
+{
+  "name": "choinka-js",
+  "version": "1.0.0",
+  "description": "Choinka Javascript",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Agata Kądziołka",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
